@@ -1,0 +1,2 @@
+Repita a questão de ordenação de acomodações do Airbnb por meio do método Bubblesort, contudo, aplicando o algoritmo de ordenação Heapsort, considerando que a chave de pesquisa seja o atributo revisões (reviews). Em caso de empate, o segundo critério de ordenação deve ser o atributo id da acomodação (roomId).
+
